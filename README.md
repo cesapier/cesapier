@@ -1,15 +1,14 @@
-## Piermauro Cesarino
-Statistics Master's student at University of Milano-Bicocca (LM-82).
+# Piermauro Cesarino
+MSc student in Statistics at the University of Milano-Bicocca.
 
 ## Interests
 - Applied data science
 - Forecasting and time series analysis
-- Sport Analytics
+- Sport analytics (Basketball)
 
 ## Tools
-- R
-- Python
-
+- R, Python, SQL, SAS
+  
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/piermauro-cesarino)
-- piermurocesarino@gmail.com
+- piermaurocesarino@gmail.com
